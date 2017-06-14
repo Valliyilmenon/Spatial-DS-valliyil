@@ -5,7 +5,6 @@ import pygame
 import random 
 import math
 import pprint as pp
-import time
 
 # Get current working path
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
