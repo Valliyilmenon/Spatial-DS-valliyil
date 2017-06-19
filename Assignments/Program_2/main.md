@@ -1,3 +1,4 @@
+```py
 """
 Program:
 --------
@@ -120,3 +121,4 @@ while running:
         pygame.display.flip()
     
     
+```
