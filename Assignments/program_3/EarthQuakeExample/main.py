@@ -1,3 +1,15 @@
+"""
+Program:
+--------
+    Program 3 - To plot EarthQuake Data above 7 Magnitude.
+Description:
+------------
+    This program takes 'Adjusted_All_Cords.json'(which was created using 'adjust_quake_points.py') as an input file to
+    plot EarthQuake Data above 7 Magnitude.
+    
+Name: Valliyil Saikiran
+Date: 22 June 2017
+"""
 import pygame
 import sys,os
 import json
@@ -24,6 +36,7 @@ if __name__=='__main__':
     pygame.init()
     bg = pygame.image.load(DIRPATH+'/'+'1024x512.png')
     pygame.display.flip()
+    #Json File with all the adjusted coordinates
     f = open(DIRPATH+'/'+'Adjusted_All_Cords.json','r')
     points = json.loads(f.read())
     
