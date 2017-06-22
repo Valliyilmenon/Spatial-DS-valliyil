@@ -1,0 +1,223 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                173.054,
+                -42.7373,
+                15.11
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mww",
+        "place": "54km NNE of Amberley, New Zealand",
+        "rms": 0.56,
+        "sig": 1644,
+        "time": 1479034976340,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                179.1461,
+                -37.3586,
+                19
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "175km NE of Gisborne, New Zealand",
+        "rms": 0.88,
+        "sig": 897,
+        "time": 1472747877300,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -17.8255,
+                -0.0456,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "North of Ascension Island",
+        "rms": 0.87,
+        "sig": 778,
+        "time": 1472444997860,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -31.8766,
+                -55.2852,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mww",
+        "place": "South Georgia Island region",
+        "rms": 0.79,
+        "sig": 843,
+        "time": 1471591942710,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                173.1167,
+                -22.4765,
+                16.37
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "110km E of Ile Hunter, New Caledonia",
+        "rms": 0.9,
+        "sig": 799,
+        "time": 1470965196280,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                145.5073,
+                18.5429,
+                196
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mww",
+        "place": "29km SW of Agrihan, Northern Mariana Islands",
+        "rms": 1.38,
+        "sig": 971,
+        "time": 1469827104740,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -26.9353,
+                -56.2409,
+                78
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "53km NNE of Visokoi Island, South Georgia and the South Sandwich Islands",
+        "rms": 0.89,
+        "sig": 798,
+        "time": 1464428819780,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.3786,
+                -16.0429,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "2km N of Norsup, Vanuatu",
+        "rms": 1.33,
+        "sig": 755,
+        "time": 1461872004070,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,trump-moment-tensor,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -79.9218,
+                0.3819,
+                20.59
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mww",
+        "place": "27km SSE of Muisne, Ecuador",
+        "rms": 0.94,
+        "sig": 1176,
+        "time": 1460851116980,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                130.7543,
+                32.7906,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "1km E of Kumamoto-shi, Japan",
+        "rms": 0.85,
+        "sig": 2060,
+        "time": 1460737506220,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                94.3299,
+                -4.9521,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mww",
+        "place": "Southwest of Sumatra, Indonesia",
+        "rms": 1.14,
+        "sig": 947,
+        "time": 1456922988110,
+        "types": ",dyfi,finite-fault,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                158.5463,
+                53.9776,
+                177
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "88km N of Yelizovo, Russia",
+        "rms": 1.19,
+        "sig": 798,
+        "time": 1454124312220,
+        "types": ",associate,cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -153.4051,
+                59.6363,
+                129
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "86km E of Old Iliamna, Alaska",
+        "rms": 2.11,
+        "sig": 1496,
+        "time": 1453631430230,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,trump-origin,"
+    }
+]

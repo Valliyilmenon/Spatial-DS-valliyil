@@ -1,0 +1,172 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                153.266,
+                46.592,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 8.3,
+        "magType": "mwc",
+        "place": "Kuril Islands",
+        "rms": 1.07,
+        "sig": 1062,
+        "time": 1163589253570,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -34.371,
+                -61.029,
+                13
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwb",
+        "place": "Scotia Sea",
+        "rms": 1.01,
+        "sig": 754,
+        "time": 1156045308040,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                107.419,
+                -9.284,
+                20
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "south of Java, Indonesia",
+        "rms": 1.16,
+        "sig": 953,
+        "time": 1153124366680,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -179.307,
+                -31.81,
+                152
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwb",
+        "place": "Kermadec Islands region",
+        "rms": 1.32,
+        "sig": 886,
+        "time": 1147775963340,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -174.123,
+                -20.187,
+                55
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mwc",
+        "place": "Tonga",
+        "rms": 1.18,
+        "sig": 1026,
+        "time": 1146670000290,
+        "types": ",associate,associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.089,
+                60.949,
+                22
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "near the east coast of Koryakskiy Avtonomnyy Okrug, Russia",
+        "rms": 0.87,
+        "sig": 889,
+        "time": 1145575502150,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                33.583,
+                -21.324,
+                11
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwb",
+        "place": "Mozambique",
+        "rms": 1.37,
+        "sig": 1001,
+        "time": 1140646747800,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.131,
+                -5.473,
+                397
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "Banda Sea",
+        "rms": 0.88,
+        "sig": 937,
+        "time": 1138381133670,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.178,
+                -19.926,
+                582.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Fiji region",
+        "rms": 1.11,
+        "sig": 798,
+        "time": 1136240020490,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -21.606,
+                -60.957,
+                13
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "east of the South Sandwich Islands",
+        "rms": 1.28,
+        "sig": 842,
+        "time": 1136182249760,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    }
+]

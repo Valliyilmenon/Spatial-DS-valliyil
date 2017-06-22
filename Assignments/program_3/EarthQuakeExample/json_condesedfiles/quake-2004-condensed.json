@@ -1,0 +1,223 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                145.119,
+                43.006,
+                39
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwb",
+        "place": "Hokkaido, Japan region",
+        "rms": 0.79,
+        "sig": 774,
+        "time": 1101666734130,
+        "types": ",associate,associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                135.404,
+                -3.609,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Papua, Indonesia",
+        "rms": 1.18,
+        "sig": 776,
+        "time": 1101435903310,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                164.721,
+                -46.676,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "off the west coast of the South Island of New Zealand",
+        "rms": 1.13,
+        "sig": 782,
+        "time": 1101155183900,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -77.508,
+                4.695,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwb",
+        "place": "near the west coast of Colombia",
+        "rms": 0.9,
+        "sig": 823,
+        "time": 1100509616560,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                124.868,
+                -8.152,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Kepulauan Alor, Indonesia",
+        "rms": 1.07,
+        "sig": 868,
+        "time": 1100208401150,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -86.665,
+                11.422,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "near the coast of Nicaragua",
+        "rms": 1.1,
+        "sig": 754,
+        "time": 1097357213690,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                137.071,
+                33.184,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwb",
+        "place": "near the south coast of Honshu, Japan",
+        "rms": 0.91,
+        "sig": 842,
+        "time": 1094396238610,
+        "types": ",associate,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                136.618,
+                33.07,
+                14
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "near the south coast of western Honshu, Japan",
+        "rms": 0.89,
+        "sig": 798,
+        "time": 1094378827820,
+        "types": ",focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                103.981,
+                -2.427,
+                582.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwb",
+        "place": "southern Sumatra, Indonesia",
+        "rms": 0.85,
+        "sig": 820,
+        "time": 1090766119060,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.76,
+                -17.656,
+                565.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Fiji region",
+        "rms": 0.93,
+        "sig": 776,
+        "time": 1089865634730,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                135.023,
+                -4.003,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwb",
+        "place": "near the south coast of Papua, Indonesia",
+        "rms": 1.01,
+        "sig": 820,
+        "time": 1076121755210,
+        "types": ",focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                135.538,
+                -3.615,
+                16.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Papua, Indonesia",
+        "rms": 0.98,
+        "sig": 754,
+        "time": 1076015102840,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                169.683,
+                -22.253,
+                22
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "southeast of the Loyalty Islands",
+        "rms": 1.06,
+        "sig": 776,
+        "time": 1073147001020,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    }
+]

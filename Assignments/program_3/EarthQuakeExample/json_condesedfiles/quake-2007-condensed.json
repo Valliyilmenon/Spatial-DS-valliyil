@@ -1,0 +1,274 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -61.274,
+                14.944,
+                156
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwb",
+        "place": "Martinique region, Windward Islands",
+        "rms": 0.74,
+        "sig": 1512,
+        "time": 1196362820420,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -69.89,
+                -22.247,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Antofagasta, Chile",
+        "rms": 1.11,
+        "sig": 1019,
+        "time": 1195054850530,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                145.388,
+                18.9,
+                207
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwb",
+        "place": "Pagan region, Northern Mariana Islands",
+        "rms": 1.09,
+        "sig": 810,
+        "time": 1193801415960,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                164.115,
+                -49.271,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "Auckland Islands, New Zealand region",
+        "rms": 1.19,
+        "sig": 859,
+        "time": 1191129814070,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.668,
+                22.013,
+                260
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Volcano Islands, Japan region",
+        "rms": 0.97,
+        "sig": 883,
+        "time": 1190986737880,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                99.627,
+                -2.13,
+                22
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Kepulauan Mentawai region, Indonesia",
+        "rms": 1.04,
+        "sig": 776,
+        "time": 1189654528720,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                100.841,
+                -2.625,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "Kepulauan Mentawai region, Indonesia",
+        "rms": 1.01,
+        "sig": 1177,
+        "time": 1189640943720,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                101.367,
+                -4.438,
+                34
+            ],
+            "type": "Point"
+        },
+        "mag": 8.4,
+        "magType": "mww",
+        "place": "southern Sumatra, Indonesia",
+        "rms": 1.03,
+        "sig": 1842,
+        "time": 1189595426830,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,impact-text,moment-tensor,origin,phase-data,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.762,
+                -11.61,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Santa Cruz Islands",
+        "rms": 1.31,
+        "sig": 798,
+        "time": 1188695118150,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -76.603,
+                -13.386,
+                39
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mwc",
+        "place": "near the coast of central Peru",
+        "rms": 0.86,
+        "sig": 1623,
+        "time": 1187221257890,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                107.419,
+                -5.859,
+                280
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Java, Indonesia",
+        "rms": 1.13,
+        "sig": 865,
+        "time": 1186592704920,
+        "types": ",associate,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.68,
+                -15.595,
+                120
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwb",
+        "place": "Vanuatu",
+        "rms": 1.14,
+        "sig": 807,
+        "time": 1185988131400,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                157.043,
+                -8.466,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mwc",
+        "place": "Solomon Islands",
+        "rms": 1.32,
+        "sig": 1030,
+        "time": 1175459998710,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                169.357,
+                -20.617,
+                34
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwb",
+        "place": "Vanuatu",
+        "rms": 1,
+        "sig": 781,
+        "time": 1174783201610,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.282,
+                1.065,
+                22
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Molucca Sea",
+        "rms": 1.22,
+        "sig": 875,
+        "time": 1169378865060,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.524,
+                46.243,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 8.1,
+        "magType": "mwc",
+        "place": "east of the Kuril Islands",
+        "rms": 1.12,
+        "sig": 1031,
+        "time": 1168662201160,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    }
+]

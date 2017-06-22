@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                178.65,
+                51.146,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mwc",
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": 1.11,
+        "sig": 936,
+        "time": 1069051386800,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.619,
+                37.812,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwb",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": 0.8,
+        "sig": 754,
+        "time": 1067562388280,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                87.813,
+                50.038,
+                16
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwb",
+        "place": "southwestern Siberia, Russia",
+        "rms": 1.03,
+        "sig": 820,
+        "time": 1064662405080,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.593,
+                41.774,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "Hokkaido, Japan region",
+        "rms": 1.02,
+        "sig": 842,
+        "time": 1064524080030,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.91,
+                41.815,
+                27
+            ],
+            "type": "Point"
+        },
+        "mag": 8.3,
+        "magType": "mwc",
+        "place": "Hokkaido, Japan region",
+        "rms": 0.88,
+        "sig": 1060,
+        "time": 1064519406360,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,scitech-link,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.144,
+                -45.104,
+                28
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "South Island of New Zealand",
+        "rms": 1.1,
+        "sig": 798,
+        "time": 1061467969790,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -43.411,
+                -60.532,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "Scotia Sea",
+        "rms": 1.09,
+        "sig": 889,
+        "time": 1059971840130,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                68.382,
+                -2.598,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "Carlsberg Ridge",
+        "rms": 0.98,
+        "sig": 889,
+        "time": 1058300870530,
+        "types": ",associate,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.722,
+                -7.606,
+                558.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Amazonas, Brazil",
+        "rms": 0.89,
+        "sig": 776,
+        "time": 1056089978910,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                128.855,
+                2.354,
+                31
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Halmahera, Indonesia",
+        "rms": 1.09,
+        "sig": 754,
+        "time": 1053977007940,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.568,
+                38.849,
+                68
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwb",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": 1.01,
+        "sig": 754,
+        "time": 1053941073400,
+        "types": ",associate,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                177.978,
+                51.272,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwb",
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": 1.26,
+        "sig": 776,
+        "time": 1047918977310,
+        "types": ",focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -104.104,
+                18.77,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwb",
+        "place": "offshore Colima, Mexico",
+        "rms": 1.4,
+        "sig": 889,
+        "time": 1043201194610,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                160.77,
+                -10.491,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "Solomon Islands",
+        "rms": 0.84,
+        "sig": 820,
+        "time": 1043052186070,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

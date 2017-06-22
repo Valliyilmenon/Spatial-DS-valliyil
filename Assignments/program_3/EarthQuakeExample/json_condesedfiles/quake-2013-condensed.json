@@ -1,0 +1,325 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -55.0033,
+                -53.9451,
+                11.78
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "Falkland Islands region",
+        "rms": 1.08,
+        "sig": 754,
+        "time": 1385360853300,
+        "types": ",cap,general-link,general-text,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -46.4011,
+                -60.2738,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mww",
+        "place": "Scotia Sea",
+        "rms": 1.33,
+        "sig": 912,
+        "time": 1384679095530,
+        "types": ",associate,cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                144.6611,
+                37.1557,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "Off the east coast of Honshu, Japan",
+        "rms": 1.01,
+        "sig": 894,
+        "time": 1382721019710,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                124.1167,
+                9.8796,
+                19.04
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "4km SE of Sagbayan, Philippines",
+        "rms": 1.3,
+        "sig": 1170,
+        "time": 1381795952050,
+        "types": ",associate,cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -74.5112,
+                -15.8385,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "46km SSE of Acari, Peru",
+        "rms": 0.9,
+        "sig": 866,
+        "time": 1380127363170,
+        "types": ",cap,dyfi,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                65.5009,
+                26.951,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mww",
+        "place": "61km NNE of Awaran, Pakistan",
+        "rms": 0.93,
+        "sig": 2026,
+        "time": 1380022187970,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -175.2297,
+                51.537,
+                29
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "101km SW of Atka, Alaska",
+        "rms": 0.89,
+        "sig": 757,
+        "time": 1377879902300,
+        "types": ",associate,cap,dyfi,general-link,geoserve,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -25.07,
+                -60.857,
+                11
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "218km SSE of Bristol Island, South Sandwich Islands",
+        "rms": 0.88,
+        "sig": 820,
+        "time": 1373897019880,
+        "types": ",cap,finite-fault,focal-mechanism,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.927,
+                -3.917,
+                385.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "115km ENE of Taron, Papua New Guinea",
+        "rms": 0.88,
+        "sig": 820,
+        "time": 1373222130740,
+        "types": ",cap,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.221,
+                54.892,
+                598.1
+            ],
+            "type": "Point"
+        },
+        "mag": 8.3,
+        "magType": "mww",
+        "place": "Sea of Okhotsk",
+        "rms": 1.02,
+        "sig": 1121,
+        "time": 1369374288980,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.232,
+                -23.009,
+                173.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mww",
+        "place": "282km SW of Vaini, Tonga",
+        "rms": 0.85,
+        "sig": 842,
+        "time": 1369329544750,
+        "types": ",cap,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                150.788,
+                46.221,
+                110
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "251km ENE of Kuril'sk, Russia",
+        "rms": 0.86,
+        "sig": 803,
+        "time": 1366340752650,
+        "types": ",cap,dyfi,focal-mechanism,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                61.996,
+                28.033,
+                80
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mww",
+        "place": "83km E of Khash, Iran",
+        "rms": 1.09,
+        "sig": 1580,
+        "time": 1366109060180,
+        "types": ",dyfi,finite-fault,focal-mechanism,general-link,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                138.476,
+                -3.517,
+                66
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "240km E of Enarotali, Indonesia",
+        "rms": 0.81,
+        "sig": 755,
+        "time": 1365223355860,
+        "types": ",cap,dyfi,focal-mechanism,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.018,
+                -10.928,
+                21
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "31km SE of Lata, Solomon Islands",
+        "rms": 0.92,
+        "sig": 779,
+        "time": 1360337198470,
+        "types": ",dyfi,eq-location-map,finite-fault,focal-mechanism,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.588,
+                -10.499,
+                8.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "27km NNW of Lata, Solomon Islands",
+        "rms": 1.22,
+        "sig": 754,
+        "time": 1360115654610,
+        "types": ",eq-location-map,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                164.882,
+                -11.183,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "114km WSW of Lata, Solomon Islands",
+        "rms": 1.19,
+        "sig": 776,
+        "time": 1360113799760,
+        "types": ",eq-location-map,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.114,
+                -10.799,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mww",
+        "place": "76km W of Lata, Solomon Islands",
+        "rms": 1.29,
+        "sig": 991,
+        "time": 1360113145830,
+        "types": ",cap,dyfi,eq-location-map,finite-fault,focal-mechanism,general-link,geoserve,historical-moment-tensor-map,historical-seismicity-map,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,p-wave-travel-times,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -134.652,
+                55.393,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mww",
+        "place": "Southeastern Alaska",
+        "rms": 1.26,
+        "sig": 1425,
+        "time": 1357376299330,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,"
+    }
+]

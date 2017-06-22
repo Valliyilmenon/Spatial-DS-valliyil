@@ -1,0 +1,223 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                146.209,
+                47.824,
+                459.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "northwest of the Kuril Islands",
+        "rms": 1.02,
+        "sig": 820,
+        "time": 1037508833540,
+        "types": ",focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -147.444,
+                63.517,
+                4.9
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "Central Alaska",
+        "rms": null,
+        "sig": 1860,
+        "time": 1036361561000,
+        "types": ",dyfi,finite-fault,focal-mechanism,general-link,general-text,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                96.085,
+                2.824,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwb",
+        "place": "Simeulue, Indonesia",
+        "rms": 1.22,
+        "sig": 842,
+        "time": 1036200370700,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                134.297,
+                -1.757,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "near the north coast of Papua, Indonesia",
+        "rms": 1.15,
+        "sig": 889,
+        "time": 1034247020570,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.945,
+                -3.302,
+                13
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "near the north coast of New Guinea, Papua New Guinea",
+        "rms": 1.16,
+        "sig": 889,
+        "time": 1031510663710,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                178.495,
+                -23.884,
+                675.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "south of the Fiji Islands",
+        "rms": 1.08,
+        "sig": 912,
+        "time": 1029755304310,
+        "types": ",focal-mechanism,impact-text,moment-tensor,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -179.513,
+                -21.696,
+                580
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Fiji region",
+        "rms": 0.93,
+        "sig": 912,
+        "time": 1029754861190,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                130.666,
+                43.752,
+                566
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "Jilin-Heilongjiang border region, China",
+        "rms": 0.86,
+        "sig": 820,
+        "time": 1025284770270,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                144.619,
+                13.088,
+                85.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Guam region",
+        "rms": 1.04,
+        "sig": 776,
+        "time": 1019837167000,
+        "types": ",focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.179,
+                24.279,
+                32.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Taiwan region",
+        "rms": 0.96,
+        "sig": 776,
+        "time": 1017557570490,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                124.249,
+                6.033,
+                31
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Mindanao, Philippines",
+        "rms": 0.95,
+        "sig": 865,
+        "time": 1015362969130,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                70.482,
+                36.502,
+                225.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "Hindu Kush region, Afghanistan",
+        "rms": 1.06,
+        "sig": 842,
+        "time": 1015157299740,
+        "types": ",focal-mechanism,impact-text,moment-tensor,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.856,
+                -17.6,
+                21
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Vanuatu",
+        "rms": 0.9,
+        "sig": 798,
+        "time": 1009992168760,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                154.322,
+                54.203,
+                492.3
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "Sea of Okhotsk",
+        "rms": 0.77,
+        "sig": 822,
+        "time": 1227517378760,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.091,
+                1.271,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mww",
+        "place": "Minahasa, Sulawesi, Indonesia",
+        "rms": 1.1,
+        "sig": 845,
+        "time": 1226854952700,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,scitech-text,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.683,
+                -29.756,
+                36
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": 1.21,
+        "sig": 754,
+        "time": 1222701571590,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,scitech-text,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.214,
+                37.552,
+                22
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": 0.84,
+        "sig": 846,
+        "time": 1216435168700,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,scitech-text,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.886,
+                53.882,
+                632.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Sea of Okhotsk",
+        "rms": 0.83,
+        "sig": 915,
+        "time": 1215223924480,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -22.099,
+                -58.227,
+                8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "South Sandwich Islands region",
+        "rms": 1.36,
+        "sig": 754,
+        "time": 1214806663020,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                103.322,
+                31.002,
+                19
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "eastern Sichuan, China",
+        "rms": 1.2,
+        "sig": 1870,
+        "time": 1210573681570,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-link,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                158.453,
+                -55.664,
+                16
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Macquarie Island region",
+        "rms": 0.99,
+        "sig": 776,
+        "time": 1207960212600,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                168.892,
+                -20.071,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mwc",
+        "place": "Loyalty Islands, New Caledonia",
+        "rms": 1.29,
+        "sig": 820,
+        "time": 1207745172720,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                81.467,
+                35.49,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Xinjiang-Xizang border region",
+        "rms": 1.03,
+        "sig": 798,
+        "time": 1206052377930,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                99.972,
+                -2.486,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Kepulauan Mentawai region, Indonesia",
+        "rms": 1.22,
+        "sig": 839,
+        "time": 1203928593030,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                95.964,
+                2.768,
+                26
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "Simeulue, Indonesia",
+        "rms": 0.97,
+        "sig": 929,
+        "time": 1203494910520,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

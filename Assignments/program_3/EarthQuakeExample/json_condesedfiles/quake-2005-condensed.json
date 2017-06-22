@@ -1,0 +1,189 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                144.896,
+                38.107,
+                11
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": 0.86,
+        "sig": 865,
+        "time": 1132004331420,
+        "types": ",associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                73.588,
+                34.539,
+                26
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "Pakistan",
+        "rms": 0.9,
+        "sig": 1373,
+        "time": 1128743440800,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -76.398,
+                -5.678,
+                115
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwb",
+        "place": "northern Peru",
+        "rms": 0.88,
+        "sig": 1120,
+        "time": 1127699737670,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.474,
+                -4.539,
+                90
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": 1.04,
+        "sig": 892,
+        "time": 1126250803730,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.039,
+                38.276,
+                36
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": 0.95,
+        "sig": 1158,
+        "time": 1124160388400,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                92.19,
+                7.92,
+                16
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Nicobar Islands, India region",
+        "rms": 0.93,
+        "sig": 808,
+        "time": 1122219726210,
+        "types": ",associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -125.953,
+                41.292,
+                16
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "off the coast of Northern California",
+        "rms": 1.2,
+        "sig": 1298,
+        "time": 1118803854190,
+        "types": ",associate,dyfi,focal-mechanism,focal-mechanism,impact-text,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,trump-origin,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -69.197,
+                -19.987,
+                115.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mwb",
+        "place": "Tarapaca, Chile",
+        "rms": 1.01,
+        "sig": 1006,
+        "time": 1118702673900,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                97.108,
+                2.085,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 8.6,
+        "magType": "mww",
+        "place": "northern Sumatra, Indonesia",
+        "rms": 0.91,
+        "sig": 2048,
+        "time": 1112026176530,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                129.933,
+                -6.527,
+                201.7
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwb",
+        "place": "Banda Sea",
+        "rms": 1.16,
+        "sig": 776,
+        "time": 1109760132230,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                123.337,
+                5.293,
+                525
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Celebes Sea",
+        "rms": 1.14,
+        "sig": 786,
+        "time": 1107606198940,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]

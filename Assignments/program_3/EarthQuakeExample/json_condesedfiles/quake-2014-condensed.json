@@ -1,0 +1,206 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                126.5217,
+                1.8929,
+                45
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "154km NW of Kota Ternate, Indonesia",
+        "rms": 0.71,
+        "sig": 781,
+        "time": 1416018701720,
+        "types": ",cap,dyfi,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -177.7587,
+                -19.6903,
+                434
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "144km NE of Ndoi Island, Fiji",
+        "rms": 0.84,
+        "sig": 776,
+        "time": 1414868242380,
+        "types": ",cap,dyfi,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -88.1225,
+                12.5262,
+                40
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "74km S of Intipuca, El Salvador",
+        "rms": 0.7,
+        "sig": 1132,
+        "time": 1413258694460,
+        "types": ",associate,cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -110.8112,
+                -32.1082,
+                16.54
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "Southern East Pacific Rise",
+        "rms": 0.43,
+        "sig": 754,
+        "time": 1412820871440,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                178.7352,
+                51.8486,
+                109
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mww",
+        "place": "19km SE of Little Sitkin Island, Alaska",
+        "rms": 0.71,
+        "sig": 962,
+        "time": 1403556789700,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                155.0241,
+                -6.7547,
+                43.37
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mww",
+        "place": "70km SW of Panguna, Papua New Guinea",
+        "rms": 1.25,
+        "sig": 865,
+        "time": 1397914080810,
+        "types": ",cap,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -100.9723,
+                17.397,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "33km ESE of Petatlan, Mexico",
+        "rms": 1.2,
+        "sig": 1178,
+        "time": 1397831244920,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,trump,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                162.0511,
+                -11.4633,
+                39
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mww",
+        "place": "112km S of Kirakira, Solomon Islands",
+        "rms": 1,
+        "sig": 842,
+        "time": 1397392579230,
+        "types": ",finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                162.1481,
+                -11.2701,
+                22.56
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mww",
+        "place": "93km SSE of Kirakira, Solomon Islands",
+        "rms": 0.71,
+        "sig": 889,
+        "time": 1397333679300,
+        "types": ",finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                155.0485,
+                -6.5858,
+                60.53
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "56km WSW of Panguna, Papua New Guinea",
+        "rms": 0.88,
+        "sig": 776,
+        "time": 1397200043130,
+        "types": ",cap,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.4931,
+                -20.5709,
+                22.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mww",
+        "place": "53km SW of Iquique, Chile",
+        "rms": 0.82,
+        "sig": 981,
+        "time": 1396492993110,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.7691,
+                -19.6097,
+                25
+            ],
+            "type": "Point"
+        },
+        "mag": 8.2,
+        "magType": "mww",
+        "place": "94km NW of Iquique, Chile",
+        "rms": 0.66,
+        "sig": 1289,
+        "time": 1396396007260,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,trump,"
+    }
+]

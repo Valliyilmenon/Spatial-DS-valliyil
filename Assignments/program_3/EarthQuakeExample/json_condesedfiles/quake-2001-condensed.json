@@ -1,0 +1,257 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                90.541,
+                35.946,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mwc",
+        "place": "southern Qinghai, China",
+        "rms": 1.07,
+        "sig": 936,
+        "time": 1005729970010,
+        "types": ",associate,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                150.196,
+                -5.912,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 0.92,
+        "sig": 754,
+        "time": 1004519420000,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                123.907,
+                -4.102,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Banda Sea",
+        "rms": 1.14,
+        "sig": 865,
+        "time": 1003462124460,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                144.98,
+                12.686,
+                37
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Guam region",
+        "rms": 1.15,
+        "sig": 754,
+        "time": 1002898936840,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -179.575,
+                -36.813,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "east of the North Island of New Zealand",
+        "rms": 1.18,
+        "sig": 776,
+        "time": 998376726250,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -72.077,
+                -17.543,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "near the coast of southern Peru",
+        "rms": 1.15,
+        "sig": 889,
+        "time": 994498723520,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.641,
+                -16.265,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 8.4,
+        "magType": "mww",
+        "place": "near the coast of southern Peru",
+        "rms": 1.05,
+        "sig": 1086,
+        "time": 993328394130,
+        "types": ",finite-fault,focal-mechanism,general-header,impact-text,moment-tensor,origin,phase-data,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -178.633,
+                -29.666,
+                178.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Kermadec Islands, New Zealand",
+        "rms": 1.01,
+        "sig": 798,
+        "time": 991536117160,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.249,
+                1.271,
+                35
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Molucca Sea",
+        "rms": 1.05,
+        "sig": 776,
+        "time": 982999428730,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                102.562,
+                -4.68,
+                36
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "southern Sumatra, Indonesia",
+        "rms": 1.31,
+        "sig": 842,
+        "time": 982092510260,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                70.232,
+                23.419,
+                16
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "Gujarat, India",
+        "rms": 1.25,
+        "sig": 912,
+        "time": 980479000500,
+        "types": ",finite-fault,focal-mechanism,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -88.66,
+                13.049,
+                60
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "offshore El Salvador",
+        "rms": 1.13,
+        "sig": 912,
+        "time": 979407212380,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -153.211,
+                57.078,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Kodiak Island region, Alaska",
+        "rms": 1.17,
+        "sig": 765,
+        "time": 979142564230,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.17,
+                -14.928,
+                103
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwb",
+        "place": "Vanuatu",
+        "rms": 1.15,
+        "sig": 776,
+        "time": 979058968000,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                126.579,
+                6.898,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mwc",
+        "place": "Mindanao, Philippines",
+        "rms": 1.06,
+        "sig": 865,
+        "time": 978332224170,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]
