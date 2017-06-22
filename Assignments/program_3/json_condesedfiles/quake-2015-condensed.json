@@ -1,0 +1,291 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                -71.0184,
+                -10.0598,
+                620.56
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mww",
+        "place": "211km S of Tarauaca, Brazil",
+        "rms": 1,
+        "sig": 894,
+        "time": 1448405454370,
+        "types": ",cap,dyfi,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -70.9437,
+                -10.5372,
+                606.21
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mww",
+        "place": "173km WNW of Iberia, Peru",
+        "rms": 1.36,
+        "sig": 951,
+        "time": 1448405138880,
+        "types": ",cap,dyfi,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                70.3676,
+                36.5244,
+                231
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mww",
+        "place": "45km E of Farkhar, Afghanistan",
+        "rms": 1.43,
+        "sig": 1517,
+        "time": 1445850582560,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                167.3028,
+                -14.8595,
+                135
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "34km NE of Port-Olry, Vanuatu",
+        "rms": 1.02,
+        "sig": 780,
+        "time": 1445377922560,
+        "types": ",cap,dyfi,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.4262,
+                -31.5622,
+                28.41
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "25km WNW of Illapel, Chile",
+        "rms": 0.93,
+        "sig": 790,
+        "time": 1442445521850,
+        "types": ",cap,dyfi,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -71.6744,
+                -31.5729,
+                22.44
+            ],
+            "type": "Point"
+        },
+        "mag": 8.3,
+        "magType": "mww",
+        "place": "48km W of Illapel, Chile",
+        "rms": 1.02,
+        "sig": 1910,
+        "time": 1442444072860,
+        "types": ",associate,cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                138.5277,
+                -2.6286,
+                48
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "228km W of Abepura, Indonesia",
+        "rms": 1.2,
+        "sig": 756,
+        "time": 1438033281710,
+        "types": ",cap,dyfi,finite-fault,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                165.1409,
+                -10.4012,
+                11
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "83km WNW of Lata, Solomon Islands",
+        "rms": 1.09,
+        "sig": 759,
+        "time": 1437186453820,
+        "types": ",cap,dyfi,general-link,general-text,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -17.1605,
+                -35.3639,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "Southern Mid-Atlantic Ridge",
+        "rms": 1.16,
+        "sig": 754,
+        "time": 1434545492790,
+        "types": ",cap,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                140.4931,
+                27.8386,
+                664
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mww",
+        "place": "189km WNW of Chichi-shima, Japan",
+        "rms": 1.12,
+        "sig": 1161,
+        "time": 1432984982110,
+        "types": ",cap,dyfi,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                86.0655,
+                27.8087,
+                15
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "19km SE of Kodari, Nepal",
+        "rms": 0.92,
+        "sig": 1770,
+        "time": 1431414319730,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                154.5567,
+                -7.2175,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "143km SW of Panguna, Papua New Guinea",
+        "rms": 0.7,
+        "sig": 776,
+        "time": 1430982619590,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                151.8751,
+                -5.4624,
+                55
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mww",
+        "place": "130km SSW of Kokopo, Papua New Guinea",
+        "rms": 1.02,
+        "sig": 869,
+        "time": 1430790246380,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                84.7314,
+                28.2305,
+                8.22
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mww",
+        "place": "36km E of Khudi, Nepal",
+        "rms": 0.96,
+        "sig": 2820,
+        "time": 1429942285950,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,scitech-link,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.5623,
+                -4.7294,
+                41
+            ],
+            "type": "Point"
+        },
+        "mag": 7.5,
+        "magType": "mww",
+        "place": "53km SE of Kokopo, Papua New Guinea",
+        "rms": 1.32,
+        "sig": 873,
+        "time": 1427672911010,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                122.5348,
+                -7.2968,
+                552.06
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "130km N of Nebe, Indonesia",
+        "rms": 1.12,
+        "sig": 760,
+        "time": 1425044705370,
+        "types": ",cap,dyfi,general-link,geoserve,impact-text,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,touch,trump,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -31.9016,
+                52.6487,
+                16.68
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "Northern Mid-Atlantic Ridge",
+        "rms": 0.79,
+        "sig": 776,
+        "time": 1423853952230,
+        "types": ",cap,dyfi,finite-fault,general-link,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,poster,shakemap,tectonic-summary,"
+    }
+]

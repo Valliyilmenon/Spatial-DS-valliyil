@@ -1,0 +1,325 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                43.508,
+                38.721,
+                18
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "eastern Turkey",
+        "rms": 0.93,
+        "sig": 1096,
+        "time": 1319366483250,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -176.238,
+                -28.993,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mww",
+        "place": "Kermadec Islands region",
+        "rms": 0.87,
+        "sig": 845,
+        "time": 1319219836100,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -179.528,
+                -21.611,
+                644.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "Fiji region",
+        "rms": 1.06,
+        "sig": 822,
+        "time": 1316115064080,
+        "types": ",associate,dyfi,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                169.716,
+                -20.671,
+                185.1
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "Vanuatu",
+        "rms": 0.99,
+        "sig": 761,
+        "time": 1315090540920,
+        "types": ",associate,dyfi,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -74.525,
+                -7.641,
+                147
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "northern Peru",
+        "rms": 0.87,
+        "sig": 913,
+        "time": 1314207971650,
+        "types": ",associate,dyfi,general-text,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                168.218,
+                -18.311,
+                28
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "Vanuatu",
+        "rms": 1.07,
+        "sig": 787,
+        "time": 1313864363550,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,moment-tensor,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                168.143,
+                -18.365,
+                32
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "Vanuatu",
+        "rms": 1.26,
+        "sig": 813,
+        "time": 1313859302810,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.264,
+                38.034,
+                23
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": 1.04,
+        "sig": 857,
+        "time": 1310259430800,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -176.34,
+                -29.539,
+                17
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mww",
+        "place": "Kermadec Islands region",
+        "rms": 1.17,
+        "sig": 892,
+        "time": 1309978998260,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -171.836,
+                52.05,
+                52
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "Fox Islands, Aleutian Islands, Alaska",
+        "rms": 1.05,
+        "sig": 829,
+        "time": 1308884979470,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.588,
+                38.276,
+                42
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mww",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": 0.94,
+        "sig": 1032,
+        "time": 1302186763290,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                144.59,
+                38.058,
+                18.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.7,
+        "magType": "mwc",
+        "place": "off the east coast of Honshu, Japan",
+        "rms": 0.85,
+        "sig": 927,
+        "time": 1299824750300,
+        "types": ",associate,dyfi,impact-text,moment-tensor,moment-tensor,origin,phase-data,poster,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                141.111,
+                36.281,
+                42.6
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": 1.44,
+        "sig": 1102,
+        "time": 1299824140280,
+        "types": ",associate,dyfi,impact-text,moment-tensor,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.373,
+                38.297,
+                29
+            ],
+            "type": "Point"
+        },
+        "mag": 9.1,
+        "magType": "mww",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": 1.16,
+        "sig": 2184,
+        "time": 1299822384120,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,general-link,impact-text,moment-tensor,origin,phase-data,poster,scitech-link,scitech-text,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                142.842,
+                38.435,
+                32
+            ],
+            "type": "Point"
+        },
+        "mag": 7.3,
+        "magType": "mww",
+        "place": "near the east coast of Honshu, Japan",
+        "rms": 0.98,
+        "sig": 958,
+        "time": 1299638720330,
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                63.951,
+                28.777,
+                68
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "southwestern Pakistan",
+        "rms": 1.3,
+        "sig": 1419,
+        "time": 1295382203480,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                168.471,
+                -20.628,
+                9
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "Loyalty Islands, New Caledonia",
+        "rms": 0.99,
+        "sig": 755,
+        "time": 1294935401540,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -73.326,
+                -38.355,
+                24
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mww",
+        "place": "Araucania, Chile",
+        "rms": 1.1,
+        "sig": 817,
+        "time": 1293999617780,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -63.136,
+                -26.803,
+                576.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mww",
+        "place": "Santiago Del Estero, Argentina",
+        "rms": 0.85,
+        "sig": 754,
+        "time": 1293875818120,
+        "types": ",associate,dyfi,focal-mechanism,impact-text,moment-tensor,origin,phase-data,poster,"
+    }
+]

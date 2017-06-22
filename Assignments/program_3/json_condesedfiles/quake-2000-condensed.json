@@ -1,0 +1,240 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                151.781,
+                -5.496,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mwc",
+        "place": "New Britain region, Papua New Guinea",
+        "rms": 1.07,
+        "sig": 936,
+        "time": 974494916490,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.102,
+                -5.233,
+                30
+            ],
+            "type": "Point"
+        },
+        "mag": 7.8,
+        "magType": "mwc",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": 1.31,
+        "sig": 936,
+        "time": 974360536930,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                152.169,
+                -3.98,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 8,
+        "magType": "mwc",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": 1.2,
+        "sig": 985,
+        "time": 974350496740,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                153.945,
+                -4.766,
+                50
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "New Ireland region, Papua New Guinea",
+        "rms": 0.96,
+        "sig": 754,
+        "time": 972808628770,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                166.91,
+                -15.421,
+                23
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwc",
+        "place": "Vanuatu",
+        "rms": 1.16,
+        "sig": 754,
+        "time": 970678724310,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                139.556,
+                28.856,
+                394.8
+            ],
+            "type": "Point"
+        },
+        "mag": 7.4,
+        "magType": "mwc",
+        "place": "Bonin Islands, Japan region",
+        "rms": 0.9,
+        "sig": 842,
+        "time": 965546832900,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                97.453,
+                -13.802,
+                10
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "South Indian Ocean",
+        "rms": 1.16,
+        "sig": 960,
+        "time": 961339453310,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                102.087,
+                -4.721,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.9,
+        "magType": "mwc",
+        "place": "southern Sumatra, Indonesia",
+        "rms": 1.1,
+        "sig": 960,
+        "time": 960136106170,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -66.452,
+                -23.548,
+                225
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Jujuy, Argentina",
+        "rms": 0.86,
+        "sig": 798,
+        "time": 958156998120,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                123.573,
+                -1.105,
+                26
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "Sulawesi, Indonesia",
+        "rms": 1.14,
+        "sig": 889,
+        "time": 957414076210,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -62.99,
+                -28.307,
+                608.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7,
+        "magType": "mwb",
+        "place": "Santiago Del Estero, Argentina",
+        "rms": 0.89,
+        "sig": 754,
+        "time": 956482043320,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                143.73,
+                22.338,
+                126.5
+            ],
+            "type": "Point"
+        },
+        "mag": 7.6,
+        "magType": "mwc",
+        "place": "Volcano Islands, Japan region",
+        "rms": 1.22,
+        "sig": 889,
+        "time": 954241222510,
+        "types": ",finite-fault,focal-mechanism,impact-text,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                173.818,
+                -19.528,
+                33
+            ],
+            "type": "Point"
+        },
+        "mag": 7.1,
+        "magType": "mwc",
+        "place": "Vanuatu region",
+        "rms": 1.2,
+        "sig": 776,
+        "time": 951443038640,
+        "types": ",focal-mechanism,moment-tensor,origin,phase-data,"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                -174.248,
+                -16.925,
+                183.4
+            ],
+            "type": "Point"
+        },
+        "mag": 7.2,
+        "magType": "mwc",
+        "place": "Tonga",
+        "rms": 1.25,
+        "sig": 798,
+        "time": 947350040580,
+        "types": ",focal-mechanism,impact-text,moment-tensor,origin,phase-data,shakemap,trump-shakemap,"
+    }
+]
