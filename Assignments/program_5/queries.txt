@@ -1,0 +1,5 @@
+1)Find airports which is 500 miles closer to the place where most volcanoes and earthquakes have occured
+
+2)Travel through a path by choosing only nearest regional airports from an origin to reach the state which has largest ever earthquake.
+
+3)Travel all the states within a distance of 700 miles from the place where earthquakes recorded above 9 magnitude.
