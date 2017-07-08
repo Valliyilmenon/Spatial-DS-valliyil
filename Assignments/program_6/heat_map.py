@@ -1,3 +1,15 @@
+"""
+Program:
+--------
+    Program 6 
+Description:
+------------
+     Generates heat map for the terrorist attacks taken place in cities around the world
+    
+Name: SaiKiran Valliyil, Revathi Chikoti
+Date:07 july 2017
+"""
+
 import pprint as pp
 import os,sys
 import json
